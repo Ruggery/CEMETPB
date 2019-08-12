@@ -10,7 +10,7 @@ Inspirações
 Exposições de artes
 
 Descrição das funcionalidades
-O site apresenta a proposta de uma página única de uma clínica médica. A escolha de página única se deu em razão de estudos comprovarem uma maior taxa de conversão de consumidores. Assim, além da localização da clínica, há formulários que abrangem o feedback do consumidor e de potenciais interessados em expandir a atuação da clínica, podendo incluir currículo e dados pessoais.
+O site apresenta a proposta de uma página única de uma clínica médica. A escolha de página única se deu em razão de estudos comprovarem uma maior taxa de conversão de consumidores. Assim, além de descrição, histórico, equipe, especialidaes e da localização da clínica, há formulários que abrangem o feedback do consumidor e de potenciais interessados em expandir a atuação da clínica, podendo incluir currículo e dados pessoais.
 
 Equipe
 
