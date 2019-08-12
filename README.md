@@ -7,7 +7,7 @@ Requisitos mínimos
 tags semânticas, propriedades, seletores, layout, animation & gradientes, responsividade, recursos da Web.
 
 Inspirações
-Exposições de artes
+Apresentação de outros sites médicos e estudos de marketing digital.
 
 Descrição das funcionalidades
 O site apresenta a proposta de uma página única de uma clínica médica. A escolha de página única se deu em razão de estudos comprovarem uma maior taxa de conversão de consumidores. Assim, além de descrição, histórico, equipe, especialidaes e da localização da clínica, há formulários que abrangem o feedback do consumidor e de potenciais interessados em expandir a atuação da clínica, podendo incluir currículo e dados pessoais.
