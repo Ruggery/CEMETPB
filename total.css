@@ -306,10 +306,13 @@ ul.menu{
 #formsugestoes input{
     display: block;
 }
+
+
+
 #mapa{
     background-color: silver;
     margin: 3vh 0;
-    width: 100vw;
+    width: 100%;
     box-sizing: border-box;
 }
 
@@ -330,11 +333,27 @@ ul.menu{
     align-content: space-around;
     padding-bottom: 2vh;
 }
+#redessociais{
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 20vw;
+    padding: 2vh 40vw;
 
+}
 /*FOOTER*/
 footer{
+    display: block;
+    grid-template-columns: 1fr 1fr;
     background-color: lightblue;
     text-align: center;
     padding: 1vh;
     height: 3vh;
 }
+
+
+
+.facebook, .instagram, .youtube{
+    font-size: 40px;
+}
+
